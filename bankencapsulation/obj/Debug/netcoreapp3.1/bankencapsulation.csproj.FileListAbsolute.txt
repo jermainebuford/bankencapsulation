@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.exe
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.deps.json
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.dll
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\bin\Debug\netcoreapp3.1\bankencapsulation.pdb
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.dll
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.pdb
+C:\Users\jay\Desktop\csharp27\bankencapsulation\bankencapsulation\obj\Debug\netcoreapp3.1\bankencapsulation.genruntimeconfig.cache
